@@ -1,0 +1,11 @@
+Argus Next.js Fixture v1
+
+This repository is a sanitized derivative of the project available at:
+https://github.com/gauge-sh/starter-nextjs.git
+
+Upstream source commit:
+82b2639bc9921b598e50e3b18d428744a9da4e0f
+
+The upstream project is licensed under the MIT License. Its LICENSE is
+preserved verbatim in this repository. This derivative is maintained as an
+Argus simulation fixture and does not imply endorsement by Gauge.
